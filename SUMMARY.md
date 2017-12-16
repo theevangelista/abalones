@@ -7,6 +7,7 @@
   
   * Assumptions:
     * The size of an abalone increases as it get older
+    * The size thus the weight of its shell increses over time
 
 ## Why solve this problem ?
 For study and conservation propurses the age of an ablone is important to know so people
