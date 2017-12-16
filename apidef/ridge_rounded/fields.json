@@ -1,0 +1,1 @@
+{"fields": [{"name": "diameter", "dtype": "float64"}, {"name": "whole_weight", "dtype": "float64"}, {"name": "rings", "dtype": "int64"}, {"name": "sex_F", "dtype": "uint8"}, {"name": "sex_I", "dtype": "uint8"}, {"name": "sex_M", "dtype": "uint8"}]}
